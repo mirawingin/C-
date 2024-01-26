@@ -1,0 +1,1 @@
+﻿System.Console.WriteLine("A bad workman blames his tools");
