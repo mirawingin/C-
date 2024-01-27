@@ -1,0 +1,15 @@
+C:\Users\mirawingin\Desktop\Сsharp\lesson1\workshop2\bin\Debug\net8.0\workshop2.exe
+C:\Users\mirawingin\Desktop\Сsharp\lesson1\workshop2\bin\Debug\net8.0\workshop2.deps.json
+C:\Users\mirawingin\Desktop\Сsharp\lesson1\workshop2\bin\Debug\net8.0\workshop2.runtimeconfig.json
+C:\Users\mirawingin\Desktop\Сsharp\lesson1\workshop2\bin\Debug\net8.0\workshop2.dll
+C:\Users\mirawingin\Desktop\Сsharp\lesson1\workshop2\bin\Debug\net8.0\workshop2.pdb
+C:\Users\mirawingin\Desktop\Сsharp\lesson1\workshop2\obj\Debug\net8.0\workshop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirawingin\Desktop\Сsharp\lesson1\workshop2\obj\Debug\net8.0\workshop2.AssemblyInfoInputs.cache
+C:\Users\mirawingin\Desktop\Сsharp\lesson1\workshop2\obj\Debug\net8.0\workshop2.AssemblyInfo.cs
+C:\Users\mirawingin\Desktop\Сsharp\lesson1\workshop2\obj\Debug\net8.0\workshop2.csproj.CoreCompileInputs.cache
+C:\Users\mirawingin\Desktop\Сsharp\lesson1\workshop2\obj\Debug\net8.0\workshop2.sourcelink.json
+C:\Users\mirawingin\Desktop\Сsharp\lesson1\workshop2\obj\Debug\net8.0\workshop2.dll
+C:\Users\mirawingin\Desktop\Сsharp\lesson1\workshop2\obj\Debug\net8.0\refint\workshop2.dll
+C:\Users\mirawingin\Desktop\Сsharp\lesson1\workshop2\obj\Debug\net8.0\workshop2.pdb
+C:\Users\mirawingin\Desktop\Сsharp\lesson1\workshop2\obj\Debug\net8.0\workshop2.genruntimeconfig.cache
+C:\Users\mirawingin\Desktop\Сsharp\lesson1\workshop2\obj\Debug\net8.0\ref\workshop2.dll
