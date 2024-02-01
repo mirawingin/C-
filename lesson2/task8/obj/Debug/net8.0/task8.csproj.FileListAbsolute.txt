@@ -1,0 +1,5 @@
+C:\Users\mirawingin\Desktop\Сsharp\lesson2\task8\obj\Debug\net8.0\task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirawingin\Desktop\Сsharp\lesson2\task8\obj\Debug\net8.0\task8.AssemblyInfoInputs.cache
+C:\Users\mirawingin\Desktop\Сsharp\lesson2\task8\obj\Debug\net8.0\task8.AssemblyInfo.cs
+C:\Users\mirawingin\Desktop\Сsharp\lesson2\task8\obj\Debug\net8.0\task8.csproj.CoreCompileInputs.cache
+C:\Users\mirawingin\Desktop\Сsharp\lesson2\task8\obj\Debug\net8.0\task8.sourcelink.json
