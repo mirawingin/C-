@@ -1,0 +1,15 @@
+C:\Users\mirawingin\Desktop\Сsharp\lesson4\multiplication_table\bin\Debug\net8.0\multiplication_table.exe
+C:\Users\mirawingin\Desktop\Сsharp\lesson4\multiplication_table\bin\Debug\net8.0\multiplication_table.deps.json
+C:\Users\mirawingin\Desktop\Сsharp\lesson4\multiplication_table\bin\Debug\net8.0\multiplication_table.runtimeconfig.json
+C:\Users\mirawingin\Desktop\Сsharp\lesson4\multiplication_table\bin\Debug\net8.0\multiplication_table.dll
+C:\Users\mirawingin\Desktop\Сsharp\lesson4\multiplication_table\bin\Debug\net8.0\multiplication_table.pdb
+C:\Users\mirawingin\Desktop\Сsharp\lesson4\multiplication_table\obj\Debug\net8.0\multiplication_table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirawingin\Desktop\Сsharp\lesson4\multiplication_table\obj\Debug\net8.0\multiplication_table.AssemblyInfoInputs.cache
+C:\Users\mirawingin\Desktop\Сsharp\lesson4\multiplication_table\obj\Debug\net8.0\multiplication_table.AssemblyInfo.cs
+C:\Users\mirawingin\Desktop\Сsharp\lesson4\multiplication_table\obj\Debug\net8.0\multiplication_table.csproj.CoreCompileInputs.cache
+C:\Users\mirawingin\Desktop\Сsharp\lesson4\multiplication_table\obj\Debug\net8.0\multiplication_table.sourcelink.json
+C:\Users\mirawingin\Desktop\Сsharp\lesson4\multiplication_table\obj\Debug\net8.0\multiplication_table.dll
+C:\Users\mirawingin\Desktop\Сsharp\lesson4\multiplication_table\obj\Debug\net8.0\refint\multiplication_table.dll
+C:\Users\mirawingin\Desktop\Сsharp\lesson4\multiplication_table\obj\Debug\net8.0\multiplication_table.pdb
+C:\Users\mirawingin\Desktop\Сsharp\lesson4\multiplication_table\obj\Debug\net8.0\multiplication_table.genruntimeconfig.cache
+C:\Users\mirawingin\Desktop\Сsharp\lesson4\multiplication_table\obj\Debug\net8.0\ref\multiplication_table.dll
