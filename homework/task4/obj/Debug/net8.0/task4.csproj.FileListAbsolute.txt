@@ -1,0 +1,15 @@
+C:\Users\mirawingin\Desktop\Сsharp\homework\task4\obj\Debug\net8.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirawingin\Desktop\Сsharp\homework\task4\obj\Debug\net8.0\task4.AssemblyInfoInputs.cache
+C:\Users\mirawingin\Desktop\Сsharp\homework\task4\obj\Debug\net8.0\task4.AssemblyInfo.cs
+C:\Users\mirawingin\Desktop\Сsharp\homework\task4\obj\Debug\net8.0\task4.csproj.CoreCompileInputs.cache
+C:\Users\mirawingin\Desktop\Сsharp\homework\task4\obj\Debug\net8.0\task4.sourcelink.json
+C:\Users\mirawingin\Desktop\Сsharp\homework\task4\bin\Debug\net8.0\task4.exe
+C:\Users\mirawingin\Desktop\Сsharp\homework\task4\bin\Debug\net8.0\task4.deps.json
+C:\Users\mirawingin\Desktop\Сsharp\homework\task4\bin\Debug\net8.0\task4.runtimeconfig.json
+C:\Users\mirawingin\Desktop\Сsharp\homework\task4\bin\Debug\net8.0\task4.dll
+C:\Users\mirawingin\Desktop\Сsharp\homework\task4\bin\Debug\net8.0\task4.pdb
+C:\Users\mirawingin\Desktop\Сsharp\homework\task4\obj\Debug\net8.0\task4.dll
+C:\Users\mirawingin\Desktop\Сsharp\homework\task4\obj\Debug\net8.0\refint\task4.dll
+C:\Users\mirawingin\Desktop\Сsharp\homework\task4\obj\Debug\net8.0\task4.pdb
+C:\Users\mirawingin\Desktop\Сsharp\homework\task4\obj\Debug\net8.0\task4.genruntimeconfig.cache
+C:\Users\mirawingin\Desktop\Сsharp\homework\task4\obj\Debug\net8.0\ref\task4.dll
