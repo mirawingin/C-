@@ -1,0 +1,15 @@
+C:\Users\mirawingin\Desktop\Сsharp\homework\recursion\bin\Debug\net8.0\recursion.exe
+C:\Users\mirawingin\Desktop\Сsharp\homework\recursion\bin\Debug\net8.0\recursion.deps.json
+C:\Users\mirawingin\Desktop\Сsharp\homework\recursion\bin\Debug\net8.0\recursion.runtimeconfig.json
+C:\Users\mirawingin\Desktop\Сsharp\homework\recursion\bin\Debug\net8.0\recursion.dll
+C:\Users\mirawingin\Desktop\Сsharp\homework\recursion\bin\Debug\net8.0\recursion.pdb
+C:\Users\mirawingin\Desktop\Сsharp\homework\recursion\obj\Debug\net8.0\recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirawingin\Desktop\Сsharp\homework\recursion\obj\Debug\net8.0\recursion.AssemblyInfoInputs.cache
+C:\Users\mirawingin\Desktop\Сsharp\homework\recursion\obj\Debug\net8.0\recursion.AssemblyInfo.cs
+C:\Users\mirawingin\Desktop\Сsharp\homework\recursion\obj\Debug\net8.0\recursion.csproj.CoreCompileInputs.cache
+C:\Users\mirawingin\Desktop\Сsharp\homework\recursion\obj\Debug\net8.0\recursion.sourcelink.json
+C:\Users\mirawingin\Desktop\Сsharp\homework\recursion\obj\Debug\net8.0\recursion.dll
+C:\Users\mirawingin\Desktop\Сsharp\homework\recursion\obj\Debug\net8.0\refint\recursion.dll
+C:\Users\mirawingin\Desktop\Сsharp\homework\recursion\obj\Debug\net8.0\recursion.pdb
+C:\Users\mirawingin\Desktop\Сsharp\homework\recursion\obj\Debug\net8.0\recursion.genruntimeconfig.cache
+C:\Users\mirawingin\Desktop\Сsharp\homework\recursion\obj\Debug\net8.0\ref\recursion.dll
