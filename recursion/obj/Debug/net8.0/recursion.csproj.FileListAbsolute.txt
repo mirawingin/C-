@@ -1,0 +1,5 @@
+C:\Users\mirawingin\Desktop\Сsharp\recursion\obj\Debug\net8.0\recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirawingin\Desktop\Сsharp\recursion\obj\Debug\net8.0\recursion.AssemblyInfoInputs.cache
+C:\Users\mirawingin\Desktop\Сsharp\recursion\obj\Debug\net8.0\recursion.AssemblyInfo.cs
+C:\Users\mirawingin\Desktop\Сsharp\recursion\obj\Debug\net8.0\recursion.csproj.CoreCompileInputs.cache
+C:\Users\mirawingin\Desktop\Сsharp\recursion\obj\Debug\net8.0\recursion.sourcelink.json
