@@ -20,3 +20,5 @@ int SumDigit(int value)
 System.Console.WriteLine(value: $"Ввидите число");
 int n = Convert.ToInt32(value: Console.ReadLine()!);
 System.Console.WriteLine(value: SumDigit(value: n));
+hhgjkkjcidcieii988iuichriijh
+ijijcijricjijic
